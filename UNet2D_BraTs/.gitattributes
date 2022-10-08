@@ -1,0 +1,6 @@
+# Auto detect text files and perform LF normalization
+* text=auto
+wandb/
+output/
+models/
+__pycache__
